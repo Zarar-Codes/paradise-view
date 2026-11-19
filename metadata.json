@@ -1,0 +1,8 @@
+{
+  "name": "Paradise Views Landscaping | Landscape Design & Construction",
+  "description": "Transform your outdoor space with Paradise Views Landscaping. Explore landscape design, patios, retaining walls, decks, outdoor living, and landscaping services in the Toronto and Etobicoke area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

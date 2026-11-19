@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+  --color-lime-primary: #D9E600;
+  --color-lime-deep: #C8D500;
+  --color-charcoal: #222222;
+  --color-near-black: #151515;
+  --color-pure-white: #FFFFFF;
+  --color-off-white: #F7F7F4;
+  --color-light-gray: #E7E7E3;
+  --color-muted-gray: #777777;
+  --color-natural-green: #344B38;
+
+  --font-display: "Space Grotesk", system-ui, -apple-system, sans-serif;
+  --font-sans: "DM Sans", system-ui, -apple-system, sans-serif;
+  --font-editorial: "Manrope", "Space Grotesk", sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-sans);
+    background-color: #151515;
+    color: #151515;
+    overflow-x: clip;
+  }
+
+  body {
+    overflow-x: clip;
+    font-feature-settings: "ss01" on;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  :focus-visible {
+    outline: 2px solid #D9E600;
+    outline-offset: 3px;
+  }
+}
+
+/* Architectural fine drafting grid backgrounds */
+.bg-arch-grid-dark {
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.055) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.055) 1px, transparent 1px);
+  background-size: 96px 96px;
+}
+
+.bg-arch-grid-light {
+  background-image:
+    linear-gradient(to right, rgba(21, 21, 21, 0.055) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(21, 21, 21, 0.055) 1px, transparent 1px);
+  background-size: 96px 96px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

@@ -1,0 +1,1226 @@
+# PROJECT: PARADISE VIEWS LANDSCAPING — PREMIUM WEBSITE REDESIGN
+
+## 1. YOUR ROLE
+
+Act as an award-winning creative director, premium website designer, senior UI/UX architect, motion graphics specialist, conversion-rate optimization expert, SEO strategist, and senior React developer.
+
+Your task is to design and build an extraordinary, highly animated, modern website for **Paradise Views Landscaping**.
+
+Existing website:
+https://paradiseviewslandscaping.com/
+
+Instagram:
+https://www.instagram.com/paradiseviews12/
+
+Facebook:
+https://www.facebook.com/profile.php?id=100064103292378
+
+This is a professional website redesign DEMO created by InoDo.
+
+I have provided screenshots of the existing website. Carefully study them before designing.
+
+The existing website has a distinctive visual identity featuring:
+- Bright electric lime-yellow accents.
+- Dark charcoal backgrounds.
+- White content areas.
+- Black typography.
+- Landscaping and outdoor construction photography.
+
+Preserve this original color identity while dramatically improving its visual execution.
+
+Do not create a generic landscaping website.
+
+Build something that looks like a premium digital design agency created a bespoke website for an established landscaping company.
+
+## 2. MAIN PROJECT OBJECTIVES
+
+The existing website has three important UX problems that this redesign must solve.
+
+### Problem 1 — Complicated quote-request form
+
+The existing form requests too much information before visitors can even make an initial inquiry.
+
+Solution:
+Create a short, conversion-focused inquiry form that asks only for essential information initially.
+
+### Problem 2 — Underperforming project gallery
+
+The project photographs should do more than simply display completed work.
+
+Solution:
+Create an immersive portfolio that encourages visitors to explore projects and request similar work.
+
+### Problem 3 — Repetitive homepage messaging
+
+The homepage must communicate a different purpose in every section.
+
+Solution:
+Create a logical storytelling structure that guides visitors from inspiration to trust, project discovery, and finally an inquiry.
+
+## 3. DESIGN DIRECTION
+
+Create a combination of:
+
+- Bold architectural editorial design.
+- Premium landscaping aesthetics.
+- Modern construction branding.
+- Immersive outdoor photography.
+- Neo-editorial typography.
+- Minimalist layouts.
+- Sophisticated motion design.
+- High-conversion business UX.
+
+Visual personality:
+
+Bold, confident, architectural, modern, sophisticated, organic, and memorable.
+
+Think of an award-winning landscaping studio website rather than an ordinary local contractor website.
+
+Use:
+- Oversized typography.
+- Asymmetric image compositions.
+- Large full-width photography.
+- Bold section transitions.
+- Creative grids.
+- Sharp rectangular layouts.
+- Fine borders.
+- Large editorial numbers.
+- Strong light/dark contrast.
+
+Avoid:
+- Generic AI templates.
+- Excessive rounded cards.
+- Repetitive three-column layouts.
+- Cheap gradients.
+- Random floating circles.
+- Excessive glassmorphism.
+- Unnecessary decorative icons.
+- Repetitive text.
+- Too much empty space.
+- Generic stock illustrations.
+
+# 4. DESIGN SYSTEM
+
+## Color palette
+
+The original lime and charcoal identity MUST remain recognizable.
+
+Use these colors:
+
+PRIMARY LIME:
+#D9E600
+
+DEEP LIME:
+#C8D500
+
+DARK CHARCOAL:
+#222222
+
+NEAR BLACK:
+#151515
+
+PURE WHITE:
+#FFFFFF
+
+OFF WHITE:
+#F7F7F4
+
+LIGHT GRAY:
+#E7E7E3
+
+MUTED GRAY:
+#777777
+
+NATURAL GREEN:
+#344B38
+
+COLOR DISTRIBUTION:
+
+- White and off-white for primary content sections.
+- Charcoal for dramatic sections.
+- Lime for buttons, highlights, active navigation, and decorative accents.
+- Natural green only as a supporting color.
+- Black for primary text on light backgrounds.
+
+Lime should be visually striking but not overpower the website.
+
+Use large dark sections with white typography and lime highlights.
+
+Maintain consistent contrast.
+
+## Typography — VERY IMPORTANT
+
+Use a bold, modern font combination.
+
+PRIMARY DISPLAY FONT:
+Space Grotesk — weights 600 and 700.
+
+BODY FONT:
+DM Sans — weights 400, 500 and 600.
+
+OPTIONAL EDITORIAL EMPHASIS:
+Manrope ExtraBold.
+
+Use:
+- Oversized bold headings.
+- Strong typography hierarchy.
+- Short supporting paragraphs.
+- Large uppercase section labels.
+- Bold numerical indexes.
+- Carefully controlled line heights.
+- Creative line breaks.
+- Fluid responsive font sizes.
+
+Headings should feel powerful and architectural.
+
+Avoid thin, overly delicate fonts.
+
+Use large text as an actual design element.
+
+Implement responsive typography using clamp().
+
+## Layout system
+
+- Maximum content width: 1440px.
+- Main content width: 90%.
+- Desktop grid: 12 columns.
+- Desktop section spacing: 110–150px.
+- Mobile section spacing: 65–85px.
+- Consistent spacing tokens.
+- Asymmetric compositions.
+- Strong visual hierarchy.
+
+Do not use the same layout for every section.
+
+# 5. NAVIGATION
+
+Create a sophisticated navigation bar.
+
+Logo:
+Use the existing Paradise Views logo if it can be retrieved.
+
+Navigation:
+
+- HOME
+- WHY CHOOSE US
+- GALLERY
+- SERVICES
+- CONTACT
+
+Right-side CTA:
+
+GET A FREE ESTIMATE
+
+Design:
+- White or charcoal navigation background depending on the hero.
+- Strong typography.
+- Lime active navigation indicator.
+- Subtle backdrop blur.
+- Sticky behavior.
+- Fine borders.
+- Smooth transitions.
+
+On scrolling, transition into a solid, clean navigation background.
+
+Interactions:
+- Animated lime underline.
+- Active navigation indicator.
+- Smooth hover transitions.
+- Subtle movement.
+- Animated mobile menu.
+
+Make the mobile menu sophisticated and fully functional.
+
+# 6. HOMEPAGE — COMPLETE BUSINESS WEBSITE
+
+The homepage is the ONLY fully developed Paradise Views business page.
+
+All actual business content must be placed on this homepage.
+
+Build the following sections in order.
+
+## SECTION 01 — CINEMATIC HERO
+
+Create a full-screen immersive hero.
+
+Image direction:
+
+A stunning modern luxury backyard with:
+- Natural stone patio.
+- Beautiful landscaping.
+- Outdoor kitchen or built-in BBQ.
+- Modern deck.
+- Architectural outdoor living environment.
+- Beautiful greenery.
+
+Use high-quality genuine Paradise Views photographs wherever available.
+
+Layout:
+
+Small uppercase eyebrow:
+
+LANDSCAPE DESIGN & BUILD
+
+Main heading:
+
+"OUTDOORS.
+REIMAGINED."
+
+Use massive Space Grotesk typography.
+
+Make one word lime.
+
+Supporting text:
+
+"Thoughtfully designed outdoor spaces. Beautifully built for the way you live."
+
+Primary CTA:
+
+EXPLORE OUR PROJECTS
+
+Secondary CTA:
+
+GET A FREE ESTIMATE
+
+Add:
+- Full-screen background photography.
+- Sophisticated dark overlay.
+- Small bottom-left scroll indicator.
+- Small bottom-right editorial label: "PARADISE VIEWS LANDSCAPING".
+
+### Hero animation
+
+Create a cinematic opening sequence:
+
+1. Background image reveals through a mask.
+2. Eyebrow fades in.
+3. Heading appears word by word.
+4. Lime-highlighted word animates separately.
+5. Supporting text fades upward.
+6. Buttons enter with staggered timing.
+7. Scroll indicator begins a subtle animation.
+
+Add subtle image parallax.
+
+The first viewport must immediately communicate premium landscaping and outdoor construction.
+
+## SECTION 02 — BRAND INTRODUCTION
+
+Background: White.
+
+Small label:
+
+THE PARADISE VIEWS EXPERIENCE
+
+Heading:
+
+"YOUR BACKYARD.
+A WHOLE NEW POSSIBILITY."
+
+Supporting copy:
+
+"From thoughtfully designed patios to complete outdoor transformations, create a space that feels like a natural extension of your home."
+
+Create an asymmetric layout:
+
+- Large heading on the left.
+- Short supporting text on the right.
+- Large architectural landscaping photograph below.
+- Lime decorative line.
+- Small editorial caption.
+
+Use generous spacing.
+
+Do not repeat the hero messaging.
+
+## SECTION 03 — WHY CHOOSE PARADISE VIEWS?
+
+Background: Charcoal.
+
+Text color: White.
+
+Accent: Lime.
+
+Small label:
+
+WHY PARADISE VIEWS
+
+Heading:
+
+"THE DETAILS MAKE THE DIFFERENCE."
+
+Create a premium editorial layout with four numbered statements.
+
+01 — EXPERIENCE
+
+Showcase the company's stated landscaping experience without inventing additional years.
+
+02 — DESIGN & BUILD
+
+Communicate the design-and-build nature of the business.
+
+03 — PERSONAL APPROACH
+
+Highlight thoughtful project planning and attention to the customer's vision.
+
+04 — BUILT FOR OUTDOOR LIVING
+
+Communicate the range of outdoor environments the company creates.
+
+Use short supporting descriptions.
+
+Use large numbers, thin lime dividers, and architectural imagery.
+
+Use only verifiable business claims.
+
+Do not invent statistics or awards.
+
+## SECTION 04 — SERVICES
+
+Background: Off White.
+
+Small label:
+
+WHAT WE DO
+
+Heading:
+
+"FROM THE FIRST IDEA
+TO THE FINISHED SPACE."
+
+Create a creative service showcase.
+
+Use these actual service categories based on the existing website:
+
+01 — LANDSCAPE DESIGN & INSTALLATION
+
+02 — INTERLOCKING PATIOS & WALKWAYS
+
+03 — RETAINING WALLS
+
+04 — DECKS, FENCES & PERGOLAS
+
+05 — SWIMMING POOLS & OUTDOOR SPACES
+
+06 — ARTIFICIAL GRASS & SOD
+
+07 — NATURAL STONE & HARDSCAPING
+
+08 — OUTDOOR KITCHENS & FEATURES
+
+Verify the exact service details against the existing website.
+
+### Design
+
+Do not use ordinary small service cards.
+
+Use large horizontal editorial rows.
+
+Each row should contain:
+- Large bold service title.
+- Number.
+- Short description.
+- Lime arrow.
+- Related project photograph.
+
+### Interactions
+
+When hovering over a row:
+- A large associated image appears.
+- Image reveals with a smooth mask.
+- Title moves subtly.
+- Arrow animates.
+- Lime accent becomes more prominent.
+
+On mobile, show the images directly.
+
+Add CTA:
+
+DISCUSS YOUR PROJECT
+
+## SECTION 05 — FEATURED PROJECTS / LEAD-GENERATING GALLERY
+
+THIS IS ONE OF THE MOST IMPORTANT SECTIONS.
+
+Background: White.
+
+Small label:
+
+SELECTED PROJECTS
+
+Heading:
+
+"REAL SPACES.
+REAL TRANSFORMATIONS."
+
+The gallery must be a major visual highlight of the website.
+
+Use genuine project photography from the existing website and available social media assets where possible.
+
+Image categories:
+- Backyard landscaping.
+- Built-in BBQ and outdoor kitchens.
+- Interlocking patios.
+- Retaining walls.
+- Outdoor stairs.
+- Swimming pool surroundings.
+- Decks and pergolas.
+- Stonework.
+- Garden transformations.
+
+### Gallery layout
+
+Create a premium asymmetric editorial grid.
+
+Include:
+- One large featured project.
+- Two smaller supporting projects.
+- One wide horizontal project.
+- Additional image compositions.
+
+Avoid repetitive equal-sized cards.
+
+### Project interactions
+
+On hover:
+- Image smoothly scales.
+- Overlay appears.
+- Project category is revealed.
+- Lime arrow animates.
+- Caption moves slightly.
+
+On click:
+- Open an elegant full-screen lightbox.
+- Show the large photograph.
+- Include previous/next navigation.
+- Provide an accessible close button.
+
+### MOST IMPORTANT — TURN GALLERY VISITORS INTO LEADS
+
+Under selected project images, add contextual CTAs.
+
+Examples:
+
+"LIKE THIS PATIO?"
+
+"BUILD SOMETHING SIMILAR"
+
+"PLANNING A BACKYARD TRANSFORMATION?"
+
+"LET'S DISCUSS YOUR PROJECT"
+
+Each CTA should lead to the homepage quote form.
+
+When a user clicks a project CTA, automatically preselect the relevant project category in the inquiry form.
+
+Add a prominent gallery CTA:
+
+HAVE A PROJECT IN MIND? LET'S TALK.
+
+Do not invent project names, customer names, addresses, or project outcomes.
+
+Do not present stock photography as completed Paradise Views projects.
+
+## SECTION 06 — VISUAL STATEMENT
+
+Create a dramatic full-width image section.
+
+Use an impressive outdoor living photograph.
+
+Large heading:
+
+"MORE THAN A BACKYARD.
+YOUR OWN OUTDOOR ESCAPE."
+
+Use large white typography with lime highlights.
+
+Add a subtle dark overlay.
+
+Animations:
+- Image reveal.
+- Scroll parallax.
+- Text entrance.
+- Subtle background scale.
+
+This section should create a strong emotional connection.
+
+## SECTION 07 — HOW IT WORKS
+
+Background: Light Gray.
+
+Small label:
+
+THE PROCESS
+
+Heading:
+
+"FROM VISION TO REALITY."
+
+Create four steps:
+
+01 — TELL US YOUR IDEA
+
+Share your outdoor project vision.
+
+02 — DISCUSS THE DETAILS
+
+Explore the requirements and possibilities.
+
+03 — PLAN YOUR SPACE
+
+Discuss the design and construction approach.
+
+04 — BRING IT TO LIFE
+
+Move forward with your landscaping project.
+
+These are proposed website process stages, not a claim about a verified formal company workflow.
+
+Use bold numbers, horizontal connecting lines, and animated progress indicators.
+
+Do not use ordinary icon cards.
+
+## SECTION 08 — TRUST & CREDIBILITY
+
+Background: Charcoal.
+
+Use genuine business information only.
+
+Include verified items such as:
+- Published customer reviews, if accessible and accurately attributed.
+- Actual company credentials.
+- Contractor license information.
+- Existing certifications, if verified.
+- Verified experience statements.
+
+Do not fabricate testimonials, star ratings, awards, or memberships.
+
+Create an editorial layout with large typography and selected real proof elements.
+
+If suitable verified content is unavailable, use a beautiful photography and brand-values section instead.
+
+## SECTION 09 — CONVERSION SECTION
+
+Background: Lime.
+
+This should be visually bold and memorable.
+
+Heading:
+
+"READY TO TRANSFORM
+YOUR OUTDOOR SPACE?"
+
+Supporting text:
+
+"Tell us what you have in mind. Let's start with a conversation."
+
+Primary CTA:
+
+GET YOUR FREE ESTIMATE
+
+Secondary CTA:
+
+CALL PARADISE VIEWS
+
+Use charcoal typography and a dark button.
+
+Add a subtle animated decorative line.
+
+Make this section impossible to miss without making it visually cluttered.
+
+## SECTION 10 — SHORT CONTACT FORM
+
+THIS SECTION MUST SOLVE THE EXISTING FORM PROBLEM.
+
+Background: White.
+
+Create a clean two-column contact section.
+
+Left side:
+
+Small label:
+
+LET'S START SOMETHING GREAT
+
+Heading:
+
+"WHAT ARE YOU
+PLANNING?"
+
+Supporting text:
+
+"Whether you're thinking about a new patio, retaining wall, deck, or a complete backyard transformation, tell us a little about your idea."
+
+Display verified contact details:
+
+Phone:
+(416) 560-9501
+
+Location:
+Etobicoke, Ontario, Canada
+
+Service areas:
+Etobicoke, Toronto, Mississauga, Brampton, Woodbridge, Richmond Hill, Bolton, Caledon, and Kleinburg.
+
+Right side:
+
+Create a premium short inquiry form.
+
+### Initial form fields
+
+1. Your Name — required.
+2. Email or Phone — require at least one valid contact method.
+3. What type of project? — dropdown.
+4. Tell us a little about your project — optional.
+
+Project type options:
+
+- Backyard Transformation.
+- Interlocking Patio.
+- Retaining Wall.
+- Deck or Fence.
+- Swimming Pool.
+- Landscaping.
+- Outdoor Kitchen.
+- Other.
+
+Submit button:
+
+LET'S TALK ABOUT IT
+
+### FORM UX RULES
+
+Do NOT ask for the following upfront:
+
+- Full street address.
+- Exact city.
+- Multiple project selections.
+- Availability schedules.
+- Extensive technical requirements.
+- Large mandatory descriptions.
+
+Collect additional information later during the conversation.
+
+Use:
+- Clear form labels.
+- Elegant input styling.
+- Minimal fields.
+- Helpful validation.
+- Inline error messages.
+- Loading state.
+- Accessible focus indicators.
+- Success state after real submission.
+
+The form must be visually simple and take very little effort to complete.
+
+If a backend is not configured, implement the frontend and clearly identify the integration point. Never pretend to send an inquiry successfully when no submission occurred.
+
+## SECTION 11 — FOOTER
+
+Background: Charcoal.
+
+Typography: White.
+
+Accent: Lime.
+
+Include:
+- Paradise Views logo.
+- Short brand statement.
+- Navigation links.
+- Main service categories.
+- Phone number.
+- Verified email if available.
+- Instagram.
+- Facebook.
+- Service areas.
+- Copyright information.
+
+Large closing statement:
+
+"LET'S MAKE YOUR
+OUTDOORS EXTRAORDINARY."
+
+Add a lime-colored animated divider.
+
+Create a beautiful Back to Top interaction.
+
+---
+
+# 7. SECONDARY PAGES — INODO PROMOTIONAL EXPERIENCE
+
+CRITICAL REQUIREMENT:
+
+There must be ONLY ONE fully developed Paradise Views business page: the homepage.
+
+All other navigation routes must be single-screen promotional experiences for InoDo.
+
+Do not build full business content on secondary pages.
+
+## Routes
+
+/why-choose-us
+
+/gallery
+
+/services
+
+/contact
+
+Each secondary route must display ONLY ONE full-screen promotional design.
+
+### EXACT CONTENT ON EVERY SECONDARY PAGE
+
+Small eyebrow:
+
+"A WEBSITE CONCEPT BY INODO"
+
+Main heading:
+
+"LIKE WHAT YOU SEE?"
+
+Supporting text:
+
+"Let's build something extraordinary for your business."
+
+Primary CTA:
+
+"HIRE INODO TO BUILD THIS"
+
+Destination:
+
+https://inodo.net
+
+Secondary CTA:
+
+"BACK TO HOMEPAGE"
+
+Destination:
+
+/
+
+Small signature:
+
+"Concept designed by InoDo."
+
+### Visual design
+
+Create a full-screen landscape photograph background.
+
+Use:
+- Dark charcoal overlay.
+- Electric lime highlights.
+- Large Space Grotesk headings.
+- White supporting typography.
+- Bold lime CTA.
+- Subtle parallax.
+- Animated heading reveal.
+- Smooth image mask transitions.
+- Sophisticated motion.
+
+Each route should have a different composition while preserving exactly the same promotional message.
+
+Examples:
+
+/why-choose-us:
+Centered oversized heading.
+
+/gallery:
+Asymmetric typography over a full-screen landscape.
+
+/services:
+Bold left-aligned typography with an animated image reveal.
+
+/contact:
+Centered CTA with a prominent lime button.
+
+### STRICT RESTRICTIONS
+
+Do not include:
+- Paradise Views services.
+- Additional project galleries.
+- Business contact information.
+- Testimonials.
+- About sections.
+- Business descriptions.
+- Contact forms.
+- Extra promotional paragraphs.
+- Multiple content sections.
+- Any Aura-style business content.
+
+The secondary pages must contain only the InoDo promotional message and two buttons.
+
+Nothing else.
+
+---
+
+# 8. ADVANCED MOTION DESIGN
+
+The website must feel significantly more interactive and animated than a standard landscaping website.
+
+Use Framer Motion as the primary animation library.
+
+Use GSAP only for specific advanced effects when needed.
+
+Implement:
+
+1. Cinematic page entrances.
+2. Staggered heading reveals.
+3. Word-by-word text animation.
+4. Scroll-triggered image reveals.
+5. Image clipping masks.
+6. Smooth parallax.
+7. Animated section dividers.
+8. Portfolio hover effects.
+9. Animated navigation indicators.
+10. Button hover transitions.
+11. Smooth lightbox transitions.
+12. Animated form interactions.
+13. Smooth route transitions.
+14. Creative scroll indicators.
+15. Subtle image depth effects.
+
+### Creative interactions
+
+Add:
+- Image-following previews for service rows on desktop.
+- Animated project image masks.
+- Large typography reveals.
+- Subtle magnetic-feeling buttons.
+- Animated lime lines.
+- Creative image transitions.
+
+Do not apply every animation to every element.
+
+The motion should feel intentional, smooth, and premium.
+
+### Timing
+
+Micro-interactions: 200–350ms.
+
+Text reveals: 600–900ms.
+
+Image reveals: 800–1200ms.
+
+Section transitions: 500–800ms.
+
+Use smooth easing.
+
+Prefer transform and opacity.
+
+Respect prefers-reduced-motion.
+
+Reduce unnecessary effects on mobile.
+
+---
+
+# 9. SEO OPTIMIZATION
+
+Optimize the homepage for relevant local landscaping search intent.
+
+Suggested title:
+
+Paradise Views Landscaping | Landscape Design & Construction
+
+Suggested description:
+
+Transform your outdoor space with Paradise Views Landscaping. Explore landscape design, patios, retaining walls, decks, outdoor living, and landscaping services in the Toronto and Etobicoke area.
+
+Keyword themes:
+
+- Paradise Views Landscaping.
+- Landscaping Etobicoke.
+- Landscape contractors Toronto.
+- Landscape design and construction.
+- Interlocking patios.
+- Retaining wall contractors.
+- Backyard landscaping.
+- Deck construction.
+- Outdoor kitchens.
+- Landscaping Mississauga.
+- Landscaping Brampton.
+- Landscaping Caledon.
+
+Implement:
+- Semantic HTML5.
+- Proper H1/H2/H3 structure.
+- Unique meta titles.
+- Meta descriptions.
+- Open Graph metadata.
+- Twitter metadata.
+- Descriptive image alt text.
+- Canonical URLs.
+- XML sitemap.
+- robots.txt.
+- Clean URL structure.
+- Internal linking.
+- LocalBusiness structured data using verified business information only.
+
+Do not keyword-stuff.
+
+Do not invent service locations or business details.
+
+---
+
+# 10. PERFORMANCE OPTIMIZATION
+
+The website must be visually impressive without becoming slow.
+
+Implement:
+
+- WebP and AVIF images where possible.
+- Responsive image sizing.
+- Lazy loading below-the-fold images.
+- Priority loading for the hero image.
+- Font optimization.
+- Code splitting.
+- Lazy loading secondary routes.
+- Proper image dimensions.
+- Efficient animations.
+- Minimal JavaScript.
+- Avoid unnecessary re-renders.
+- Prevent cumulative layout shift.
+
+Aim for excellent Core Web Vitals.
+
+Do not sacrifice performance for decorative effects.
+
+---
+
+# 11. RESPONSIVE DESIGN
+
+Optimize for:
+
+- 360px mobile.
+- 390px mobile.
+- 430px mobile.
+- 768px tablet.
+- 1024px laptop.
+- 1440px desktop.
+- 1920px large desktop.
+
+Mobile requirements:
+
+- Fully responsive navigation.
+- Properly cropped hero imagery.
+- Large but readable typography.
+- No horizontal overflow.
+- Mobile-specific gallery layouts.
+- Easy-to-use contact form.
+- Proper touch targets.
+- No hover-dependent content.
+- Reduced animation complexity.
+
+Do not simply shrink the desktop design.
+
+Make the mobile experience feel intentionally designed.
+
+---
+
+# 12. ACCESSIBILITY
+
+Follow WCAG 2.2 AA principles where practical.
+
+Implement:
+- Keyboard navigation.
+- Visible focus states.
+- Accessible buttons.
+- Proper form labels.
+- Sufficient color contrast.
+- Descriptive alt text.
+- Semantic HTML.
+- Reduced-motion support.
+- Appropriate ARIA attributes.
+
+---
+
+# 13. TECHNICAL IMPLEMENTATION
+
+Build a real working React application.
+
+Preferred stack:
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- Framer Motion.
+- React Router.
+- Lucide React.
+
+Architecture:
+
+Create reusable components:
+
+- Navbar.
+- MobileMenu.
+- HeroSection.
+- IntroductionSection.
+- WhyChooseUs.
+- ServicesSection.
+- ServiceRow.
+- PortfolioGallery.
+- PortfolioLightbox.
+- VisualStatement.
+- ProcessSection.
+- TrustSection.
+- CTASection.
+- ContactForm.
+- Footer.
+- InodoPromotionalPage.
+
+Use reusable design tokens.
+
+Keep components modular.
+
+Make every route functional.
+
+Do not create dead buttons.
+
+Do not use placeholder links.
+
+Do not leave broken images or console errors.
+
+---
+
+# 14. CONTENT AND ASSET RULES
+
+Use the supplied screenshots and existing website as the main business reference.
+
+Prioritize real Paradise Views project images.
+
+Use images from the existing website where accessible.
+
+For image selection, prioritize:
+- Built-in BBQ areas.
+- Retaining walls.
+- Interlocking stone patios.
+- Swimming pools.
+- Decks and fences.
+- Pergolas.
+- Outdoor kitchens.
+- Natural stone.
+- Modern backyard transformations.
+
+If original photographs cannot be retrieved, use high-quality representative landscaping photography.
+
+Never present stock imagery as a verified Paradise Views project.
+
+Maintain consistent image grading.
+
+Do not fabricate:
+- Customer reviews.
+- Awards.
+- Project results.
+- Client names.
+- Prices.
+- Guarantees.
+- Credentials.
+- Business history.
+
+Use accurate business details from the existing website.
+
+---
+
+# 15. FINAL QUALITY CHECKLIST
+
+Before finishing, verify:
+
+HOMEPAGE:
+
+[ ] Original charcoal, lime, and white identity preserved.
+
+[ ] Bold typography combination implemented.
+
+[ ] Premium cinematic hero.
+
+[ ] Unique homepage sections.
+
+[ ] Services presented creatively.
+
+[ ] Portfolio has interactive project photography.
+
+[ ] Gallery CTAs lead to inquiries.
+
+[ ] Short quote form implemented.
+
+[ ] No repetitive homepage messaging.
+
+[ ] Premium footer.
+
+SECONDARY PAGES:
+
+[ ] All four secondary routes exist.
+
+[ ] Each contains ONLY the InoDo promotional screen.
+
+[ ] Exact promotional message used.
+
+[ ] HIRE INODO button links to https://inodo.net.
+
+[ ] BACK TO HOMEPAGE button works.
+
+[ ] No extra Paradise Views content.
+
+ANIMATIONS:
+
+[ ] Smooth heading reveals.
+
+[ ] Image transitions.
+
+[ ] Scroll animations.
+
+[ ] Navigation interactions.
+
+[ ] Button interactions.
+
+[ ] Responsive motion.
+
+TECHNICAL:
+
+[ ] All routes work.
+
+[ ] All buttons work.
+
+[ ] Contact form validation works.
+
+[ ] No broken images.
+
+[ ] No console errors.
+
+[ ] No horizontal overflow.
+
+[ ] SEO metadata present.
+
+[ ] Mobile layouts tested.
+
+[ ] Accessibility considered.
+
+[ ] Performance optimized.
+
+---
+
+# FINAL CREATIVE INSTRUCTION
+
+Think like a world-class digital agency creating a premium website for a landscaping and outdoor construction company.
+
+This website should look bold, modern, architectural, and visually unforgettable.
+
+The original lime-yellow and charcoal color identity must remain recognizable.
+
+Use oversized bold typography, striking photography, sophisticated motion, creative project galleries, and conversion-focused interactions.
+
+Most importantly, solve the three actual website problems:
+
+1. Make requesting a quote much easier.
+2. Make project photography generate inquiries.
+3. Eliminate repetitive messaging.
+
+Do not build a generic template.
+
+Build the complete, functional website with exceptional visual quality.
+
+The homepage must be the only complete Paradise Views business page.
+
+All other pages must remain single-screen InoDo promotional experiences.
+
+Start by establishing the design system, then build the homepage, secondary routes, animations, and responsive layouts. Finish by testing the entire application.
